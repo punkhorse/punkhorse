@@ -1,80 +1,80 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Daniel Oliveira</h1>
+<h1>👋 Olá, eu sou Daniel Oliveira</h1>
 
 <h3>AI-Assisted Developer · Workflow Automation · Digital Product Development</h3>
 
-<p>🎓 Computer Networks Graduate &nbsp;•&nbsp; 🖧 IT Infrastructure &nbsp;•&nbsp; 🌐 Digital Solutions</p>
+<p>🎓 Graduado em Redes de Computadores &nbsp;•&nbsp; 🖧 Infraestrutura de TI &nbsp;•&nbsp; 🌐 Soluções Digitais</p>
 
-<p>I turn ideas into practical digital solutions through AI-assisted development, automation and continuous learning.</p>
-
-<a href="https://www.youtube.com/@DonliverAI"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Donliver_AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://donliver.com.br/"><img alt="Donliver" src="https://img.shields.io/badge/Donliver-Website-00A991?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://www.linkedin.com/"><img alt="LinkedIn (replace URL)" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
-<h2>👨‍💻 About Me</h2>
-
-I'm a Computer Networks graduate expanding my skills in software development, automation and digital product creation. I work on real projects using AI-assisted development while studying programming fundamentals and improving my technical independence.
-
-I enjoy identifying problems, planning features, testing implementations and evolving useful digital products.
-- 🔭 Currently building: Donliver, a technology and PC-building platform
-- ⚙️ Interested in: workflow automation, web applications and API integrations
-- 📚 Learning: software engineering fundamentals and modern web technologies
-- 🖧 Background: computer networks and IT infrastructure
-<h2>🚀 Featured Project</h2>
-
-<div align="center">
-
-<h3>🖥️ Donliver — Hardware, Gaming & PC Building</h3>
-
-<p>Technology offers, PC component selection and automation-supported workflows.</p>
-
-<a href="https://donliver.com.br/"><img alt="Visit Donliver" src="https://img.shields.io/badge/Explore-Donliver-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://t.me/donliverofertas"><img alt="Telegram offers" src="https://img.shields.io/badge/Telegram-Offers-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-</div>
-
-
-What I work on: product planning, AI-assisted implementation, testing, user experience and iterative improvements.
-<h2>🛠️ Technologies & Tools</h2>
-
-<p><em>Tools used in projects or currently being studied; not a claim of independent mastery.</em></p>
-
-<h3>🌐 Frontend & Web</h3>
-
-
-
-
-
-
-
-<h3>🗃️ Backend & Integrations</h3>
-
-
-
-
-<h3>⚙️ Tools & Workflow</h3>
-
-
-
-
-
-
-<h2>📊 GitHub Activity</h2>
-
-<div align="center">
-
-<img alt="GitHub contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=punkhorse&bg_color=0d1117&color=38bdf8&line=2dd4bf&point=ffffff&area=true&hide_border=true" width="95%">
-
-</div>
-
-<sub>Private repository code and language breakdowns are not disclosed by this graph. A verified language chart can be added later.</sub>
-<div align="center">
-
-<h2>🤝 Let's Connect</h2>
+<p>Transformo ideias em soluções digitais práticas com desenvolvimento assistido por inteligência artificial, automação e aprendizado contínuo.</p>
 
 <a href="https://www.youtube.com/@DonliverAI"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Donliver_AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://donliver.com.br/"><img alt="Donliver" src="https://img.shields.io/badge/Website-Donliver-00A991?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<p><em>Building, learning and improving — one project at a time.</em></p>
+<a href="https://donliver.com.br/"><img alt="Donliver" src="https://img.shields.io/badge/Donliver-Site-00A991?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/"><img alt="LinkedIn (link provisório)" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+<h2>👨‍💻 Sobre mim</h2>
+
+Sou graduado em Redes de Computadores e estou ampliando meus conhecimentos em desenvolvimento de software, automação e criação de produtos digitais. Desenvolvo projetos reais com apoio de inteligência artificial, enquanto estudo os fundamentos da programação e desenvolvo minha autonomia técnica.
+
+Gosto de identificar problemas, planejar funcionalidades, testar implementações e aprimorar produtos digitais que sejam realmente úteis.
+- 🔭 Projeto atual: Donliver, uma plataforma de tecnologia e montagem de PCs
+- ⚙️ Áreas de interesse: automação de processos, aplicações web e integrações por APIs
+- 📚 Em aprendizado: fundamentos de engenharia de software e tecnologias web
+- 🖧 Formação: Redes de Computadores e infraestrutura de TI
+<h2>🚀 Projeto em destaque</h2>
+
+<div align="center">
+
+<h3>🖥️ Donliver — Hardware, Games e Montagem de PCs</h3>
+
+<p>Ofertas de tecnologia, seleção de componentes para computadores e fluxos de trabalho apoiados por automação.</p>
+
+<a href="https://donliver.com.br/"><img alt="Visitar Donliver" src="https://img.shields.io/badge/Conheça-Donliver-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://t.me/donliverofertas"><img alt="Ofertas no Telegram" src="https://img.shields.io/badge/Telegram-Ofertas-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</div>
+
+
+Minha participação: concepção do produto, planejamento de funcionalidades, implementação assistida por IA, testes, experiência do usuário e melhorias contínuas.
+<h2>🛠️ Tecnologias e ferramentas</h2>
+
+<p><em>Tecnologias utilizadas nos projetos ou em estudo, sem indicar domínio independente de todas elas.</em></p>
+
+<h3>🌐 Frontend e Web</h3>
+
+
+
+
+
+
+
+<h3>🗃️ Backend e integrações</h3>
+
+
+
+
+<h3>⚙️ Ferramentas e fluxo de trabalho</h3>
+
+
+
+
+
+
+<h2>📊 Atividade no GitHub</h2>
+
+<div align="center">
+
+<img alt="Gráfico de atividade do GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=punkhorse&bg_color=0d1117&color=38bdf8&line=2dd4bf&point=ffffff&area=true&hide_border=true" width="95%">
+
+</div>
+
+<sub>O gráfico não revela o código nem a distribuição de linguagens dos repositórios privados. Um gráfico de linguagens verificado poderá ser adicionado posteriormente.</sub>
+<div align="center">
+
+<h2>🤝 Vamos nos conectar</h2>
+
+<a href="https://www.youtube.com/@DonliverAI"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Donliver_AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://donliver.com.br/"><img alt="Donliver" src="https://img.shields.io/badge/Site-Donliver-00A991?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<p><em>Criando, aprendendo e evoluindo — um projeto de cada vez.</em></p>
 
 </div>
