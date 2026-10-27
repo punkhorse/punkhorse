@@ -64,11 +64,15 @@ Minha participação: concepção do produto, planejamento de funcionalidades, i
 
 <div align="center">
 
-<img alt="Gráfico de atividade do GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=punkhorse&bg_color=0d1117&color=38bdf8&line=2dd4bf&point=ffffff&area=true&hide_border=true" width="95%">
+<a href="https://github.com/punkhorse?tab=overview&from=2026-01-01&to=2026-12-31">
+  <img alt="Ver contribuições no GitHub" src="https://img.shields.io/badge/GitHub-Ver%20gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es-238636?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<p>O gráfico de contribuições é exibido diretamente pelo GitHub, sem depender de serviços externos de gráficos.</p>
 
 </div>
 
-<sub>O gráfico não revela o código nem a distribuição de linguagens dos repositórios privados. Um gráfico de linguagens verificado poderá ser adicionado posteriormente.</sub>
+<sub>O gráfico nativo pode contabilizar contribuições privadas se essa opção estiver habilitada nas configurações do GitHub, sem expor os repositórios ou o código. Ele não mostra a distribuição de linguagens privadas.</sub>
 <div align="center">
 
 <h2>🤝 Vamos nos conectar</h2>
