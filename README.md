@@ -76,7 +76,7 @@ Minha participação: concepção do produto, planejamento de funcionalidades, i
 <div align="center">
 
 <h2>📊 Projeto DonliverSync </h2>
-<sub> Uma prévia de um dos grandes projetos que estou elaborando, ainda está em fase inicial </sub>
+<sub> Uma pequena prévia de um dos grandes projetos que estou desenvolvendo. </sub>
 
 <p align="center">
   <img
