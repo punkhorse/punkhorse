@@ -1,77 +1,80 @@
-# Olá, eu sou Daniel! 👋
+<div align="center">
 
-### Full Stack Developer | React • TypeScript • Next.js • Supabase
+👋 Hi, I'm Daniel Oliveira
+🤖 AI-Assisted Developer · ⚙️ Workflow Automation · 🚀 Digital Product Development
+🎓 Computer Networks Graduate  •  🌐 Digital Solutions  •  🖧 IT Infrastructure
 
-Sou desenvolvedor de projetos independentes, com foco na criação de aplicações web, plataformas SaaS, integrações de APIs e automações.
+I turn ideas into practical digital solutions using AI-assisted development, automation and continuous learning.
 
-Tenho experiência prática construindo soluções completas, desde interfaces e regras de negócio até integração com bancos de dados, autenticação, testes e implantação. Utilizo ferramentas de inteligência artificial como apoio ao desenvolvimento, sempre buscando compreender, testar e aprimorar as soluções implementadas.
 
-## 🛠️ Tecnologias
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS e Tailwind CSS.
 
-**Backend e dados:** Node.js, APIs REST, PostgreSQL e Supabase.
+</div>
 
-**Mobile:** React Native e Expo.
+🧭 About me
+I'm a technology professional with a higher education background in Computer Networks, currently expanding my skills in software development, workflow automation, and AI-assisted development.
 
-**Ferramentas:** Git, GitHub, Vercel, integração de APIs e automações.
+I enjoy identifying real problems, designing digital products, testing solutions and improving them iteratively. AI supports my development workflow while I continue building my own programming knowledge and technical independence.
+- 🧠 Focus: practical problem-solving, automation and digital products
+- 🛠️ Approach: product planning, AI-assisted implementation, testing and iteration
+- 📚 Currently learning: programming fundamentals and modern web development
+- 🖧 Academic background: Computer Networks and IT infrastructure
+- 🎯 Goal: build reliable, useful software and grow as a technology professional
+🚀 Featured project
+<div align="center">
 
-## 🚀 Projetos em destaque
+🖥️ Donliver — Technology, Hardware & PC Building
+A digital platform focused on hardware, gaming, technology offers and PC building.
 
-### 1. Donliver — Plataforma de ofertas e automação
 
-Aplicação web desenvolvida com Next.js, TypeScript e PostgreSQL para gerenciamento e divulgação de ofertas.
+</div>
 
-- Painel administrativo e revisão humana de ofertas.
-- Integração com a API oficial do Telegram.
-- Controle de notificações, falhas e duplicidade.
-- Catálogo público, banco de dados e auditoria.
+Highlights
+- 🧩 Guided PC component selection experience
+- 🔎 Technology and hardware offer discovery
+- 🤖 Automation-supported workflows
+- 📈 Ongoing improvements to usability, content and product experience
+My role: product concept, feature planning, AI-assisted implementation, testing and continuous improvement.
+Additional projects will be featured as public demos and documentation become available.
 
-**Tecnologias:** Next.js, React, TypeScript, PostgreSQL e Supabase.
+🧰 Technologies & tools
+Technologies used in my projects and learning journey — not a claim of independent mastery of every tool.
 
-[Conhecer Donliver](https://donliver.com.br)
+🌐 Frontend & web
 
-### 2. Relatório FTTH — Gestão de relatórios técnicos
 
-Sistema web para criação e organização de relatórios de instalação de fibra óptica.
 
-- Formulários e gerenciamento de relatórios.
-- Upload de fotografias e geração de PDF.
-- Autenticação e armazenamento com Supabase.
-- Integração com Stripe para gestão de assinaturas, com ativação comercial pendente.
 
-**Tecnologias:** Next.js, TypeScript, Supabase, PostgreSQL e React PDF.
 
-[Conhecer aplicação](https://app.donliver.com.br)
 
-### 3. MargemDelivery — Análise financeira para delivery
+🗃️ Backend, data & integrations
 
-Aplicação para calcular margens de contribuição de produtos vendidos por restaurantes e operações de delivery.
 
-- Cálculos de custos, taxas e margem.
-- Interface web responsiva.
-- Integração com Supabase.
-- Estrutura de MVP para validação comercial.
 
-**Tecnologias:** React, Next.js, TypeScript e Supabase.
+⚙️ Development workflow
 
-### 4. Guilda da Fluência — Aplicativo mobile educacional
 
-Protótipo de aplicativo gamificado para aprendizado de idiomas, com progressão inspirada em RPG.
 
-- Interface mobile em React Native.
-- Sistema de missões, XP e recompensas.
-- Persistência local do progresso.
-- Testes de lógica de negócio.
 
-**Tecnologias:** React Native, Expo e TypeScript.
 
-## 🎯 Objetivo profissional
+📊 GitHub activity
+Note: These third-party cards primarily reflect public repositories. Private repository language usage is not included automatically. The badges above describe technologies used in projects and learning, not a measured usage ranking.
 
-Busco oportunidades de desenvolvimento de software, preferencialmente em formato remoto, nas quais possa contribuir com minha experiência prática em projetos próprios, colaborar com equipes e continuar evoluindo tecnicamente.
+<div align="center">
 
-## 📫 Contato
+<img height="165" alt="Daniel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=punkhorse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2DD4BF&text_color=C9D1D9" />
+<img height="165" alt="Most used languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punkhorse&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
 
-[LinkedIn](https://www.linkedin.com/in/donliver/) | [GitHub](https://github.com/punkhorse)
+</div>
 
-*Os projetos apresentados incluem aplicações implantadas e protótipos em evolução. Parte do código permanece em repositórios privados por motivos comerciais.*
+GitHub cards are provided by a third-party service and may occasionally be unavailable. Language statistics describe repository content, not proficiency.
+
+🤝 Let's connect
+<div align="center">
+
+
+
+
+
+“Building, learning and improving — one project at a time.”
+</div>
