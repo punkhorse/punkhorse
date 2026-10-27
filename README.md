@@ -75,6 +75,17 @@ Minha participação: concepção do produto, planejamento de funcionalidades, i
 <sub>O gráfico nativo pode contabilizar contribuições privadas se essa opção estiver habilitada nas configurações do GitHub, sem expor os repositórios ou o código. Ele não mostra a distribuição de linguagens privadas.</sub>
 <div align="center">
 
+<h2>📊 Projeto DonliverSync </h2>
+<sub> Uma prévia de um dos grandes projetos que estou elaborando, ainda está em fase inicial </sub>
+
+<p align="center">
+  <img
+    src="./assets/donliver-sync.png"
+    alt="Painel do DonLiver Sync"
+    width="100%"
+  />
+</p>
+
 <h2>🤝 Vamos nos conectar</h2>
 
 <a href="https://www.youtube.com/@DonliverAI"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Donliver_AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
